@@ -2,8 +2,8 @@
 
 Repo de cartes et productions (carto/stat/SIG/terrain/graphiques) académiques diverses
 
-## [Licence 1 Géographie & aménagement](L1)
+## [Licence 1 Géographie & aménagement](Licence 1)
 
-## [Licence 2 Géographie & aménagement](L2)
+## [Licence 2 Géographie & aménagement](Licence 2)
 
-## [Licence 3 Géomatique & environnement](L3)
+## [Licence 3 Pro Géomatique & environnement](Licence 3)
